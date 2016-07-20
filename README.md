@@ -1,5 +1,5 @@
-## TextProgressBar
-
+TextProgressBar
+===================
 显示进度文字跟随进度值移动的进度条组件,同时该组件也可以做分割线显示.
 
 ===================
@@ -9,9 +9,9 @@
 ===================
 
 
-### 实现效果
+## 实现效果
 
 <img src="https://github.com/HiKumho/TextProgressBar/blob/master/img_test.jpg?raw=true" width="35%" height="35%"/>
 
-### 高德地图APP离线地图
+## 高德地图APP离线地图
 <img src="https://github.com/HiKumho/TextProgressBar/blob/master/img_preview.jpg?raw=true" width="35%" height="35%"/>
