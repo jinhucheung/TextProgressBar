@@ -4,5 +4,5 @@
 
 ### 实现效果
 
-<img src="https://github.com/HiKumho/TextProgressBar/blob/master/img_test.jpg?raw=true" width="50%"/>
+<img src="https://github.com/HiKumho/TextProgressBar/blob/master/img_test.jpg?raw=true" width="50%" height="50%"/>
 
