@@ -4,4 +4,5 @@
 
 ### 实现效果
 
-![](https://github.com/HiKumho/TextProgressBar/blob/master/img_test.jpg?raw=true)
+<img src="https://github.com/HiKumho/TextProgressBar/blob/master/img_test.jpg?raw=true" width="50%"/>
+
