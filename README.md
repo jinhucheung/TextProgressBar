@@ -8,11 +8,13 @@ TextProgressBar
 
 ===================
 
+<br/>
 
 ## 实现效果
 
 <img src="https://github.com/HiKumho/TextProgressBar/blob/master/img_test.jpg?raw=true" width="35%" height="35%"/>
 
+<br/>
 
 ## 属性说明
 ```
@@ -34,6 +36,7 @@ TextProgressBar
     </declare-styleable>
 ```
 
+<br/>
 
 
 ## 具体使用
@@ -41,9 +44,9 @@ TextProgressBar
 - 作为进度条上:TextProgressBar与ProgressBar一样使用.
 - 作为分割线上:如需要在AdapterView(比如ListView)中,让TextProgressBar做为子视图的分割线,需将AdapterView的`divider="@null"`,TextProgressBa需位与子视图最底部
 
-
-
 <br/>
+
+
 
 ## 高德地图APP离线地图
 <img src="https://github.com/HiKumho/TextProgressBar/blob/master/img_preview.jpg?raw=true" width="35%" height="35%"/>
