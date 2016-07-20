@@ -13,4 +13,5 @@
 
 <img src="https://github.com/HiKumho/TextProgressBar/blob/master/img_test.jpg?raw=true" width="35%" height="35%"/>
 
-### 参考
+### 高德地图APP离线地图
+<img src="https://github.com/HiKumho/TextProgressBar/blob/master/img_preview.jpg?raw=true" width="35%" height="35%"/>
