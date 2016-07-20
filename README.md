@@ -11,7 +11,7 @@ TextProgressBar
 
 ## 实现效果及参照
 
-<img src="https://github.com/HiKumho/TextProgressBar/blob/master/img_test.jpg?raw=true" width="35%" height="35%" style="padding:50"/>
+<img src="https://github.com/HiKumho/TextProgressBar/blob/master/img_test.jpg?raw=true" width="35%" height="35%" style="padding:50px"/>
 <img src="https://github.com/HiKumho/TextProgressBar/blob/master/img_preview.jpg?raw=true" width="35%" height="35%"/>
 <br/>
 
