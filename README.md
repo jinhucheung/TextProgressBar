@@ -12,7 +12,7 @@ TextProgressBar
 ## 实现效果
 
 <img src="https://github.com/HiKumho/TextProgressBar/blob/master/img_test.jpg?raw=true" width="35%" height="35%"/>
-
+<img src="https://github.com/HiKumho/TextProgressBar/blob/master/img_preview.jpg?raw=true" width="35%" height="35%"/>
 <br/>
 
 ## 属性说明
