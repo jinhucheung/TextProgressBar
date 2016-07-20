@@ -11,7 +11,7 @@ TextProgressBar
 
 ## 实现效果及参照
 
-<img src="https://github.com/HiKumho/TextProgressBar/blob/master/img_test.jpg?raw=true" width="35%" height="35%" style="padding:50px"/>
+<img src="https://github.com/HiKumho/TextProgressBar/blob/master/img_test.jpg?raw=true" width="35%" height="35%"/>
 <img src="https://github.com/HiKumho/TextProgressBar/blob/master/img_preview.jpg?raw=true" width="35%" height="35%"/>
 <br/>
 
@@ -39,5 +39,5 @@ TextProgressBar
 ## 具体使用
 
 - 作为进度条上:TextProgressBar与ProgressBar一样使用.
-- 作为分割线上:如需要在AdapterView(比如ListView)中,让TextProgressBar做为子视图的分割线,需将AdapterView的`divider="@null"`,TextProgressBa需位与子视图最底部
+- 作为分割线上:如需要在AdapterView(比如ListView)中,让TextProgressBar做为子视图的分割线,需将AdapterView的`divider="@null"`,TextProgressBar需位于子视图最底部
 
