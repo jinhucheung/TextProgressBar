@@ -16,24 +16,16 @@ TextProgressBar
 <br/>
 
 ## 属性说明
-```
- <!--TextProgressBar:文本随进度值移动的进度条-->
-    <attr name="progress_barHeight" value="dimension" />
-    <declare-styleable name="TextProgressBar">
-        <!--max:进度条最大值-->
-        <attr name="max" format="integer" />
-        <!--progress:当前的进制值-->
-        <attr name="progress" format="integer" />
-        <!--progress_barHeight:进度条高度,并不含文字的高度  -->
-        <attr name="progress_barHeight" />
-        <!--backgroundColor:进度条的背景颜色 -->
-        <attr name="backgroundColor" format="color" />
-        <!--progressColor:显示当前进度的颜色 -->
-        <attr name="progressColor" format="color" />
-        <!--textColor:描述进度的文字颜色-->
-        <attr name="textColor" format="color" />
-    </declare-styleable>
-```
+
+|属性|描述|格式|
+|:----:|:----:|:----:|
+|max|进度条最大值|integer|
+|progress|当前的进制值|integer|
+|progress_barHeight|进度条高度,并不含文字的高度|dimension|
+|backgroundColor|进度条的背景颜色|color|
+|progressColor|显示当前进度的颜色|color|
+|textColor|描述进度的文字颜色|color|
+
 
 
 ## 具体使用
